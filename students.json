@@ -1,17 +1,9 @@
 [
     {
-        "name": "John Doe",
-        "student_class": "Grade 7",
+        "name": "name",
+        "grade": "grade",
+        "transport": false,
+        "meals": true,
         "student_id": 1
-    },
-    {
-        "name": "Alice Smith",
-        "student_class": "Grade 5",
-        "student_id": 2
-    },
-    {
-        "name": "Bob Johnson",
-        "student_class": "Grade 3",
-        "student_id": 3
     }
 ]
